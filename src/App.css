@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: linear-gradient(rgb(253, 186, 63), rgb(255, 214, 138));
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 400px;
+  margin-top: 1rem;
+}
+.react {
+  width: 200px;
+}
+.card-container {
+  width: 25rem;
+  height: 35rem;
+  background-color: rgb(255, 179, 39);
+  border-radius: 1rem;
+  margin-top: 1rem;
+}
+.card-container h1 {
+  color: white;
+  margin-top: 1rem;
+  text-align: center;
+}
+.card-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}

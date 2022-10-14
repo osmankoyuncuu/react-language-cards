@@ -7,7 +7,7 @@ import php from "../assets/php.png";
 import javaScript from "../assets/javascript.png";
 import html from "../assets/html.png";
 
-export const languages = [
+const languages = [
   {
     name: "html",
     img: html,
@@ -49,3 +49,4 @@ export const languages = [
     options: ["BackEnd", "1995", "	Rasmus Lerdorf"],
   },
 ];
+export default languages;
