@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-language-cards/static/css/main.1de2715b.css",
+    "main.js": "/react-language-cards/static/js/main.3b3a3fe8.js",
+    "static/media/php.png": "/react-language-cards/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/react-language-cards/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/css.png": "/react-language-cards/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/react-language-cards/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/react-language-cards/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/ts.png": "/react-language-cards/static/media/ts.1a203e65baa39b0b972d.png",
+    "static/media/java.png": "/react-language-cards/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/react-language-cards/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/react-language-cards/index.html",
+    "main.1de2715b.css.map": "/react-language-cards/static/css/main.1de2715b.css.map",
+    "main.3b3a3fe8.js.map": "/react-language-cards/static/js/main.3b3a3fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de2715b.css",
+    "static/js/main.3b3a3fe8.js"
+  ]
+}
