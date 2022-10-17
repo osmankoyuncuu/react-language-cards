@@ -14,13 +14,11 @@ const Card = ({ name, img, options }) => {
         </div>
       ) : (
         <div>
-          {options.map((item) => {
-            return (
-              <ul>
-                <li>{item}</li>
-              </ul>
-            );
-          })}
+          <ul>
+            {options.map((item) => {
+              return <li>{item}</li>;
+            })}
+          </ul>
         </div>
       )}
     </div>
