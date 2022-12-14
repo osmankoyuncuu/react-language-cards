@@ -6,7 +6,7 @@
 
 ## Description
 
-Project aims to create language cards app.
+Project aims to create Language Cards App.
 
 ## Project Skeleton
 
